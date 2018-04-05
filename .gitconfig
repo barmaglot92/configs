@@ -1,0 +1,18 @@
+[user]
+	name = Andrey Zhvakin
+	email = barmaglot@yandex-team.ru
+[core]
+	excludesfile = /Users/barmaglot/.gitignore_global
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+        coa = commit --amend
+	d = difftool
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[difftool]
+	prompt = false
