@@ -25,7 +25,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'szorfein/darkest-space'
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
+" Plugin 'Valloric/YouCompleteMe'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-sleuth'
 
@@ -53,7 +53,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox'
 
 Plug 'leafgarland/typescript-vim'
-Plug 'Valloric/YouCompleteMe'
+" Plug 'Valloric/YouCompleteMe'
 
 Plug 'altercation/vim-colors-solarized'
 
